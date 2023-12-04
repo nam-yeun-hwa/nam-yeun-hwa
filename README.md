@@ -12,7 +12,7 @@ This repository is simply operated for the purpose of satisfying my personal cur
 
 업무 외에 제가 평소 궁금해 하는 부분을 공부하고 테스트 해보고 있습니다. 
 
-현재는 spring boot와 next.js 그리고 react-native를 작업 하고 있으며 
+현재는 spring boot와 next.js 그리고 react-native를 등을 하고 있으며 
 
 단순히 개인적인 호기심 해소를 위해 운영되고 있습니다. 
 
