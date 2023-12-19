@@ -17,7 +17,7 @@ Feel free to reach out if you have any questions or if there's anything specific
 
 안녕하세요! 이 깃은 업무와 관련이 없는 개인적 활동을 위한 깃입니다.  
 
-업무 외에 제가 평소 궁금해 하는 부분을 공부하고 또는 현재까지 경험했던 내용을 차근차근 기록할 예정입니다.
+업무 외에 제가 평소 궁금해 하는 부분에 대해 또는 현재까지 경험했던 내용을 차근차근 기록할 예정입니다.
 
 현재는 next.js, react-native 그리고 spring boot등을 공부하고 있습니다.
 
